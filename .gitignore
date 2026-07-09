@@ -15,6 +15,7 @@ venv/
 *.jpg
 *.jpeg
 *.png
+*.pdf
 videos/
 results/
 image/
